@@ -1,0 +1,29 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Manisha Pande",
+      "imgSrc": "https://9sneha-n.github.io/journalism-spectrum-resc/journalists/J1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mehraj",
+      "imgSrc": "https://9sneha-n.github.io/journalism-spectrum-resc/journalists/J2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Abhinandan Sekhri",
+      "imgSrc": "https://9sneha-n.github.io/journalism-spectrum-resc/journalists/J3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jayashree Arunachalam",
+      "imgSrc": "https://9sneha-n.github.io/journalism-spectrum-resc/journalists/J4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Raman Kirpal",
+      "imgSrc": "https://9sneha-n.github.io/journalism-spectrum-resc/journalists/J5.jpg"
+    }
+  ]
+}
